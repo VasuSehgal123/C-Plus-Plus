@@ -1,11 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"d9/df0/fast__integer__input_8cpp.html":[10,0,12,4],
-"d9/df0/fast__integer__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82":[10,0,12,4,0],
-"d9/df0/fast__integer__input_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,4,1],
-"d9/dfd/comb__sort_8cpp.html":[10,0,16,2],
-"d9/dfd/comb__sort_8cpp.html#a0f4e7569090083fb53d5cdeaf0e2974f":[10,0,16,2,0],
-"d9/dfd/comb__sort_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,16,2,3],
 "d9/dfd/comb__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,16,2,2],
 "d9/dfd/comb__sort_8cpp.html#aede08143e63105faba10e9ee8e745fd5":[10,0,16,2,1],
 "da/d23/eulers__totient__function_8cpp.html":[10,0,10,7],
@@ -37,6 +31,11 @@ var NAVTREEINDEX4 =
 "da/d7b/primality__test_8cpp.html":[10,0,12,11],
 "da/d7b/primality__test_8cpp.html#a2bfa6adead2bdcbf1dac94cbe08d7eaf":[10,0,12,11,0],
 "da/d7b/primality__test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,11,1],
+"da/d87/cycle__sort2_8cpp.html":[10,0,16,3],
+"da/d87/cycle__sort2_8cpp.html#a4c52eee647a17095f4893f6258893e15":[10,0,16,3,0],
+"da/d87/cycle__sort2_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,16,3,3],
+"da/d87/cycle__sort2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,16,3,1],
+"da/d87/cycle__sort2_8cpp.html#af82f47c25011c54bd19ae9cd775e52c1":[10,0,16,3,2],
 "da/d8d/depth__first__search_8cpp.html":[10,0,5,2],
 "da/d8d/depth__first__search_8cpp.html#a2e6017a54d445819ede9adcf33240e1a":[10,0,5,2,1],
 "da/d8d/depth__first__search_8cpp.html#a33d8f7759375aee956643d76df491b7b":[10,0,5,2,0],
@@ -92,8 +91,8 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[9,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[9,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,8,0,0],
-"da/dd3/namespacespirograph.html":[8,0,36],
-"da/dd4/namespacemedian__search.html":[8,0,20],
+"da/dd3/namespacespirograph.html":[8,0,37],
+"da/dd4/namespacemedian__search.html":[8,0,21],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[10,0,12,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,12,2,0],
 "da/df2/durand__kerner__roots_8cpp.html":[10,0,11,2],
@@ -140,7 +139,7 @@ var NAVTREEINDEX4 =
 "db/d66/struct_item.html":[9,0,21],
 "db/d66/struct_item.html#a05e743552459fc8c2abdc80a0f4f0b0a":[9,0,21,1],
 "db/d66/struct_item.html#a62e6c5a24f2618be18e46407857c98de":[9,0,21,0],
-"db/d6f/namespaceheavy__light__decomposition.html":[8,0,10],
+"db/d6f/namespaceheavy__light__decomposition.html":[8,0,11],
 "db/d71/quadratic__probing__hash__table_8cpp.html":[10,0,8,3],
 "db/d71/quadratic__probing__hash__table_8cpp.html#a00ebcc6d39653eccc26f8432efbfc8d9":[10,0,8,3,2],
 "db/d71/quadratic__probing__hash__table_8cpp.html#a07a0467b24102260fbb6b554c453c20a":[10,0,8,3,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "dc/d61/classgraph_1_1_graph.html#afe3c12683248e50a7a1688b40156a842":[9,0,4,1,2],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html":[9,0,6,0,0,0],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a11046825be0b6dbb73fbe834aa49200e":[9,0,6,0,0,0,0],
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2":[9,0,6,0,0,0,2]
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2":[9,0,6,0,0,0,2],
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a35ab6f1b2840f89a858ca36b78739b69":[9,0,6,0,0,0,1]
 };

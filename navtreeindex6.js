@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"df/dfb/minimax_8cpp.html":[10,0,0,2],
 "df/dfb/minimax_8cpp.html#a78540bcb5ef3473b2348cbc34748ec50":[10,0,0,2,1],
 "df/dfb/minimax_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,2,0],
 "dir_074119ce3a874b57120c49a0cc4bb5ad.html":[10,0,14],
@@ -137,5 +136,12 @@ var NAVTREEINDEX6 =
 "namespacemembers_type.html":[8,1,3],
 "namespacemembers_vars.html":[8,1,2],
 "namespaces.html":[8,0],
-"pages.html":[]
+"pages.html":[],
+"":[9,0,9,0],
+"":[9,0,6,0],
+"":[9,0,6,0,0],
+"":[9,0,7,0],
+"":[9,0,3,0],
+"":[9,0,4,0],
+"":[9,0,1,0]
 };
