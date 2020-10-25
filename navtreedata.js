@@ -47,7 +47,7 @@ var NAVTREE =
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md15", null ],
           [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md16", null ],
           [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md17", null ],
-          [ "Typical structure of a program:", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
+          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18", null ],
           [ "New File Name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md19", null ],
           [ "New Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20", null ],
           [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md21", null ]
@@ -90,8 +90,7 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -121,13 +120,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md38",
-"d7/d77/class_edge.html#ac60e5bfb447fbb47de2e60a5dd05a7ec",
-"d9/dfd/comb__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a494d39f6c367071d1fd31b3c1caf1a7d",
-"df/dfb/minimax_8cpp.html#a78540bcb5ef3473b2348cbc34748ec50"
+"",
+"d3/d17/namespaceutil__functions.html",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31",
+"d7/d75/postfix__evaluation_8cpp.html#ae38bd3a177a6d61da3859a281233bbe1",
+"d9/d92/chaining_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a38ff1d954e9b7de93eb20e2dd101a045",
+"df/d64/jumpgame_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
